@@ -1,4 +1,4 @@
-# implementation for **PTDP** in zero-shot test-time adaptation
+# Implementation for **PCPT** in zero-shot test-time adaptation
  
 
 ### Prerequisites:
